@@ -1,0 +1,6 @@
+{
+    "Id":"exampleid",
+    "Nombre":"",
+    "FechaDeNacimiento":"",
+    "Productos":[{"Id":1,"nombre":"ejemplo 1", "precio":123}, {"Id":2,"nombre":"ejemplo 2", "precio":123}, {"Id":3,"nombre":"ejemplo 3", "precio":123}]
+}

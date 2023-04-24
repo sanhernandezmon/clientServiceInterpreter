@@ -1,0 +1,14 @@
+{
+  "id_atribute": "my_id",
+  "name_atribute" : "my_name",
+  "date_atribute" : {
+    "date_format": "YY/Mm/DD",
+    "date_atribute_name": "my_date"
+  },
+  "product_atribute": {
+    "product_atribute_id": "product_atribute_id",
+    "product_atribute_internal_name": "my_product_atribute_name",
+    "product_atribute_price": "my_product_atriute_price",
+    "product_atribute_name": "my_products"
+  }
+}
